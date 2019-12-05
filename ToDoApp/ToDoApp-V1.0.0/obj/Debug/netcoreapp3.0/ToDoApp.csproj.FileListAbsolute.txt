@@ -1,0 +1,11 @@
+D:\Learning\C#\ToDoApp\ToDoApp-V1.0.0\bin\Debug\netcoreapp3.0\ToDoApp.exe
+D:\Learning\C#\ToDoApp\ToDoApp-V1.0.0\bin\Debug\netcoreapp3.0\ToDoApp.deps.json
+D:\Learning\C#\ToDoApp\ToDoApp-V1.0.0\bin\Debug\netcoreapp3.0\ToDoApp.runtimeconfig.json
+D:\Learning\C#\ToDoApp\ToDoApp-V1.0.0\bin\Debug\netcoreapp3.0\ToDoApp.runtimeconfig.dev.json
+D:\Learning\C#\ToDoApp\ToDoApp-V1.0.0\bin\Debug\netcoreapp3.0\ToDoApp.dll
+D:\Learning\C#\ToDoApp\ToDoApp-V1.0.0\bin\Debug\netcoreapp3.0\ToDoApp.pdb
+D:\Learning\C#\ToDoApp\ToDoApp-V1.0.0\obj\Debug\netcoreapp3.0\ToDoApp.csprojAssemblyReference.cache
+D:\Learning\C#\ToDoApp\ToDoApp-V1.0.0\obj\Debug\netcoreapp3.0\ToDoApp.AssemblyInfoInputs.cache
+D:\Learning\C#\ToDoApp\ToDoApp-V1.0.0\obj\Debug\netcoreapp3.0\ToDoApp.AssemblyInfo.cs
+D:\Learning\C#\ToDoApp\ToDoApp-V1.0.0\obj\Debug\netcoreapp3.0\ToDoApp.dll
+D:\Learning\C#\ToDoApp\ToDoApp-V1.0.0\obj\Debug\netcoreapp3.0\ToDoApp.pdb

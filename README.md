@@ -1,2 +1,2 @@
 # ToDoApp
-For understanding how to create a progam that contain     CRUD functions in programming.
+A console app in C# developed in 2018 for understanding basic CRUD functions.
